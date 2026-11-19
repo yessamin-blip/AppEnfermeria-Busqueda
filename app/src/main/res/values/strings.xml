@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppEnfermeria</string>
+
+    <!-- comunes con el resto del grupo -->
+    <string name="logo_desc">Logo de la aplicación</string>
+    <string name="back_home_button">Volver a Inicio</string>
+
+    <!-- home (solo para poder navegar en mi repo) -->
+    <string name="home_title">Enfermería</string>
+    <string name="home_welcome">Bienvenido a tu espacio de trabajo</string>
+    <string name="home_search_button">Buscar enfermeros</string>
+
+    <!-- busqueda -->
+    <string name="search_title">Buscar Enfermero</string>
+    <string name="search_change_name">Buscar por nombre</string>
+    <string name="search_change_id">Buscar por ID</string>
+    <string name="search_id_label">ID de enfermero</string>
+    <string name="search_name_label">Nombre del enfermero</string>
+    <string name="search_button">Buscar</string>
+    <string name="search_empty_field">Escribe algo para buscar</string>
+    <string name="search_no_results">No se ha encontrado ningún enfermero</string>
+    <string name="nurse_icon_desc">Icono de enfermero</string>
+    <string name="nurse_id_text">ID: %1$d</string>
+    <string name="nurse_user_text">Usuario: %1$s</string>
+</resources>

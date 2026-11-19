@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- los mismos nombres q usa el login de mi compañera -->
+    <color name="medical_primary">#FF0077B6</color>
+    <color name="medical_background">#FFF0F4F8</color>
+    <color name="medical_error">#FFC62828</color>
+    <color name="medical_success">#FF2E7D32</color>
+    <color name="text_dark">#FF1B2B44</color>
+
+    <color name="medical_card">#FFD6E6F2</color>
+</resources>
